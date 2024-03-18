@@ -1,13 +1,13 @@
-package com.offerservice.offerservice;
+package com.reviewservice.reviewservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OfferserviceApplication {
+public class ReviewserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OfferserviceApplication.class, args);
+		SpringApplication.run(ReviewserviceApplication.class, args);
 	}
 
 }

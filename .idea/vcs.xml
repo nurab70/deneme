@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reviewservice/src/main/java/com/reviewservice/reviewservice/service/impl/deneme" vcs="Git" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.offerservice.offerservice.dto;
+package com.reviewservice.reviewservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,9 +9,9 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class OfferDto {
+public class ReviewDto {
     private Long id;
-    private String message;
-    private String type;
-    private Double price;
+    private String comment;
+    private int marks;
+
 }
